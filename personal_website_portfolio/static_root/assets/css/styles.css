@@ -330,11 +330,10 @@ img {
     border-radius: .25rem;
 }
 
-
-/* .skills__name:hover {
+.skills__name:hover {
     background-color: var(--first-color);
     color: var(--white-color);
-} */
+}
 
 .skills__img img {
     border-radius: .5rem;
